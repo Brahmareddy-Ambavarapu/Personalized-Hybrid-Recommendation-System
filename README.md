@@ -88,7 +88,7 @@ Original user and item IDs are converted into integer indices.
 
 For example:
 
-```text
+text
 User_1 → 0
 User_2 → 1
 User_3 → 2
@@ -424,10 +424,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 📁 Project Structure
 Personalized-Hybrid-Recommendation-System/
 │
-├── Untitled8 (1).ipynb
+├── Personalized_Hybrid_Recommendation.ipynb
 ├── README.md
-└── dataset/
-    └── interactions.csv
+└── personalized_recommendation_dataset.csv
 
 Update the dataset filename if your actual dataset has a different name.
 
